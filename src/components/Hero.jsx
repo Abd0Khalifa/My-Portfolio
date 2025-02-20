@@ -22,7 +22,7 @@ const Hero = () => {
           </h2>
 
           <div className="flex flex-col gap-3 sm:flex-row">
-            <ButtonPrimary label='Download CV' icon="download" href="/files/Abdulrahman Khalifa CV Last V.pdf" download target="_blank" />
+            <ButtonPrimary label='Download CV' icon="download" href="/files/AbdulrahmanKhalifa CV.pdf" download target="_blank" />
             <ButtonOutline href="#about" label="Scroll down" icon="arrow_downward" />
           </div>
         </div>

@@ -5,6 +5,26 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
+    imgSrc: "/images/elearn.png",
+    title: "Movies-App",
+    tags: [
+      "ReactJs",
+      "TailwindCSS",
+      "Web Design",
+      "Redux",
+      "Redux ToolKit",
+      "Localization",
+      "Routing",
+      "Firebase Firestore",
+      "Firebase Authentication",
+      "Formik",
+      "Yup Validation",
+      "Paypal Payment",
+    ],
+    projectLink: "https://github.com/Abd0Khalifa/E-Learning-App",
+    productionLink: "https://musical-youtiao-78d18d.netlify.app/",
+  },
+  {
     imgSrc: "/images/movie.png",
     title: "Movies-App",
     tags: [
@@ -58,13 +78,6 @@ const works = [
     tags: ["Web-design", "JS", "CSS3"],
     projectLink: "https://github.com/Abd0Khalifa/TodoApp",
     productionLink: "https://abd0khalifa.github.io/TodoApp/",
-  },
-  {
-    imgSrc: "/images/hosto.png",
-    title: "Hosto Clone",
-    tags: ["Web-design", "BootStrap"],
-    projectLink: "https://github.com/Abd0Khalifa/Hosto",
-    productionLink: "https://abd0khalifa.github.io/Hosto/",
   },
 ];
 
