@@ -5,8 +5,30 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
+    imgSrc: "/images/travello.png",
+    title: "Travello",
+    tags: [
+      "ReactJs",
+      "CSS3",
+      "Web Design",
+      "Redux ToolKit",
+      "Routing",
+      "Firebase Firestore",
+      "Firebase Authentication",
+      "Formik",
+      "Yup Validation",
+      "V-Cash Payment",
+      "Chart.js",
+      "jsPDF",
+      "EmailJS",
+      "Vite",
+    ],
+    projectLink: "https://github.com/Abd0Khalifa/travello",
+    productionLink: "https://travello-psi.vercel.app",
+  },
+  {
     imgSrc: "/images/elearn.png",
-    title: "Movies-App",
+    title: "SkillStack",
     tags: [
       "ReactJs",
       "TailwindCSS",
@@ -35,6 +57,7 @@ const works = [
       "Context",
       "Routing",
       "AXIOS",
+      "Localization",
     ],
     projectLink: "https://github.com/Abd0Khalifa/movies-app",
     productionLink: "https://soft-fudge-e94dd7.netlify.app/",
@@ -70,14 +93,6 @@ const works = [
     projectLink: "https://github.com/Abd0Khalifa/FirebaseAuth-ClouldFirestore",
     productionLink:
       "https://abd0khalifa.github.io/FirebaseAuth-ClouldFirestore/logIn.html",
-  },
-
-  {
-    imgSrc: "/images/todo.png",
-    title: "TO-DO App",
-    tags: ["Web-design", "JS", "CSS3"],
-    projectLink: "https://github.com/Abd0Khalifa/TodoApp",
-    productionLink: "https://abd0khalifa.github.io/TodoApp/",
   },
 ];
 
